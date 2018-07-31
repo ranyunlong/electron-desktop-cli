@@ -1,0 +1,33 @@
+{
+  "name": "@electron-desktop/cli",
+  "version": "0.0.1",
+  "description": "package for electron webpack cli.",
+  "bin": {
+    "electrond": "./index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "download-git-repo": "^1.0.2",
+    "inquirer": "^6.0.0",
+    "ora": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "electron-desktop",
+    "electron-webapck",
+    "electron-react",
+    "electron-vue"
+  ],
+  "author": {
+    "email": "549510622@qq.com",
+    "name": "ranyunlong",
+    "url": "https://ranyunlong.com"
+  },
+  "repository": "ranyunlong/electron-desktop-cli",
+  "license": "MIT"
+}
