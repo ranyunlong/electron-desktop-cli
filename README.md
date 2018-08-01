@@ -1,4 +1,4 @@
-# Electron-desktop-cli
+# @lemonc/lic
 
 electron for webapck vue or react cli
 
